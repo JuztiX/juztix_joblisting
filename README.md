@@ -68,4 +68,4 @@ This project is for personal and server use. Do not reupload or sell without per
 
 ---
 
-**Enjoy your roleplay experience! **
+**Enjoy your roleplay experience **
