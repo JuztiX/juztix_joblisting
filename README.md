@@ -1,4 +1,4 @@
-# ESX Job Center
+# juztix_joblisting
 
 A simple and modern Job Center for **FiveM ESX** servers. This resource allows players to choose, change, or quit jobs easily while enhancing roleplay and server organization.
 
